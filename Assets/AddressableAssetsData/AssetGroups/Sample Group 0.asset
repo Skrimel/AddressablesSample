@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: Sample Group 0
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: Sample Group 0
   m_Data:
     m_SerializedData: []
-  m_GUID: 87c4c46db2e5f414f869b2206a8ff904
+  m_GUID: 095b1cba588f2c24da5ed94c70a2a219
   m_SerializeEntries:
-  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
-    m_Address: SampleScene
+  - m_GUID: 7b1848900ec32044485bb3db3855b784
+    m_Address: Assets/Prefabs/SecondPrefab Variant.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -26,5 +26,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: 7759198cefc88544baa011ad929e653b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0d60efe68fbfefe43a73b8d7295bc74d, type: 2}
-    - {fileID: 11400000, guid: 97873726617cab5428e5c323b7df9619, type: 2}
+    - {fileID: 11400000, guid: 930179579e135ac4994e41da20ec5ee3, type: 2}
+    - {fileID: 11400000, guid: a695530f3b13ca14697dc700c689980d, type: 2}

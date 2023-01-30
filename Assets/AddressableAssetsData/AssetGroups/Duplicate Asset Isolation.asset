@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Duplicate Asset Isolation
   m_Data:
     m_SerializedData: []
-  m_GUID: 87338ffbd3a72d3419680aec8f043ee0
+  m_GUID: fb3a5e781ef74fd4baa238a6f23b3c45
   m_SerializeEntries:
   - m_GUID: a83009fc666ebee4f9158e7669faae7e
     m_Address: Assets/Sprites/icon-one.png
@@ -26,5 +26,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: 7759198cefc88544baa011ad929e653b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: a7e42d71d9beca14096a358c1b0f7c69, type: 2}
-    - {fileID: 11400000, guid: 5890c6077db9bab48a7ec5a89603b146, type: 2}
+    - {fileID: 11400000, guid: 22e4544ba3a651a41ae1bfb2b28d5709, type: 2}
+    - {fileID: 11400000, guid: 04c5815e191583a48b48da25c221f7c5, type: 2}
